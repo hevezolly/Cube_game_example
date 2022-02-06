@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c28e80a5c1dc5b419b7bf47c7a4de01, type: 3}
+  m_Name: BlocksEncoding
+  m_EditorClassIdentifier: 
+  values:
+  - key: '#'
+    value: {fileID: 1520385226531973841, guid: 9554eb4274cfba14681de8c865600882, type: 3}
+  - key: =
+    value: {fileID: 1520385226531973841, guid: 4d1b9f2f8dc5f244793e3758173e31d0, type: 3}
